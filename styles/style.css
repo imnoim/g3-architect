@@ -347,6 +347,10 @@ main, footer {
         margin-bottom: 1rem;
     }
 
+    .features-content {
+        margin-top: 0rem;
+    }
+
     .features-img img {
         width: 100%;
     }
